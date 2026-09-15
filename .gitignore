@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Secrets and local config
+.env
+.env.*
+*.pem
+secrets/
+
+# Data and models (commit small, licensed, anonymized samples only)
+data/raw/
+data/private/
+*.pt
+*.bin
+*.safetensors
+
+# OS and editors
+.DS_Store
+.vscode/
+.idea/
