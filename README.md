@@ -7,17 +7,15 @@
 
 # MoonNod
 
-Team startup project for **DATA/MSML 641: Natural Language Processing**, University of Maryland, Fall 2026.
-
-**Status:** team forming (Session 3, September 15, 2026). Product and value proposition to be agreed.
+MoonNod is an early-stage startup building language AI.
 
 ## How we work
 
-- Every task is an issue with a label, an assignee and a milestone, tracked on the project board.
+- Every task is an issue with a label, an assignee and a milestone.
 - One branch per issue. A teammate reviews and approves every pull request; `main` is protected.
 - Commits and pull requests link the issue they close.
-- Weekly reports go in `reports/sessionNN.md` (two digits) on `main` by 5:00 p.m. Eastern each Tuesday. Copy `reports/_TEMPLATE.md`.
-- User evidence (recordings, usage logs, task tests) is committed in the same week as the claim, with anything personal removed.
+- Weekly progress reports live in `reports/sessionNN.md` (template: `reports/_TEMPLATE.md`).
+- User evidence (recordings, usage logs, task tests) is committed the same week it is collected, with anything personal removed.
 
 ## The name
 
